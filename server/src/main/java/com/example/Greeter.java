@@ -1,12 +1,12 @@
 package com.example;
 
 /**
-* Class greter
+* Class greter.
 */
 public class Greeter {
 
 /**
-* Constructeur greter
+* Constructeur greter.
 */
   public Greeter() {
 
